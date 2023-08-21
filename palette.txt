@@ -4,5 +4,6 @@ Rot
 Grün
 Blau
 Gelb
+Magenta
 
 sind alles tolle Farben.
